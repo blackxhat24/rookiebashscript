@@ -1,0 +1,13 @@
+10-pipe.sh
+11-expr.sh
+12-bracket.sh
+13-bc.sh
+14-exiting.sh
+6-variable.sh
+7-basicshellscript.sh
+8-commandsub.sh
+9-IORedirection.sh
+asg.sh
+file_list.txt
+ping.txt
+ping.txt?
